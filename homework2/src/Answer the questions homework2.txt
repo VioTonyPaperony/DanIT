@@ -1,0 +1,5 @@
+a) Kernel - is the core component of an operating system that acts as a bridge between the system's software and hardware. It manages critical tasks like memory, CPU, and input/output devices, and ensures different processes can run without conflicts.
+
+b) Libraries - libraries in an operating system are collections of pre-written code, functions, and data that programs can use instead of writing the code from scratch. They help developers save time and resources by providing ready-made routines for common tasks.
+
+c) System utilities - they are programs that help maintain, optimize, and secure a computer’s operating system and overall performance. They perform tasks such as file management, disk cleanup, data backup, and virus protection. Utilities can either be built into the OS or provided by third-party software. Common examples include antivirus programs, disk defragmenters, backup tools, and file compression utilities.
